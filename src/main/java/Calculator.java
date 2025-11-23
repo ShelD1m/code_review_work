@@ -19,8 +19,8 @@ public class Calculator {
     }
 
     public int solver() {
-        int x = add(8, 8);
-        int y = dif(20, 16);
+        int x = add(10, 10);
+        int y = dif(20, 15);
         int z = div(x, y);
         return z;
     }
